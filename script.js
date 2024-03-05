@@ -28,6 +28,6 @@ function kirimData() {
   }else if (username != user2 ) {
 
   }else {
-      alert("Login Berhasil" , document.getElementById("anas").click());
+      alert("Login Berhasil" , document.getElementById("farhan").click());
   }
 } 
